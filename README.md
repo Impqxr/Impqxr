@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Impqxr&color=ff69b4)
+
 ![Metrics](/github-metrics.svg)
 
 <!--
